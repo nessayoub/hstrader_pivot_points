@@ -1,5 +1,5 @@
 # HsTrader-Pivot-Points
-
+![Pivot points](Visualization.png)
 
 This code demonstrates the usage of the `hstrader` library to fetch market data and calculate pivot points for the EURUSD currency pair.
 
